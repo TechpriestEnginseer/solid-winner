@@ -6,6 +6,7 @@
 	{
 		"major":1,
 		"minor":7,
+		"patch":1,
 	},
 	"starsectorVersion":".9.1a"
 }
