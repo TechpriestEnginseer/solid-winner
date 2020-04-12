@@ -1,9 +1,9 @@
 {
     "id": "timid_commissioned_hull_mods",
-    "name": "Commission Crews",
+    "name": "Commissioned Crews",
     "author": "Techpriest",
     "utility": "false",
-    "version": "1.8",
+    "version": "1.9",
     "description": "Granting special fleet characteristics depending on what faction you're commissioned by.",
     "gameVersion": "0.9.1a",
 	"jars":["jar/CommissionedCrews.jar"],
