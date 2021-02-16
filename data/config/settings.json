@@ -1,9 +1,30 @@
-{
-  "CHM_EnableSoundOnApplication": TRUE,
-  "CHM_AutoApplyToModules": TRUE,
+{	
+	"SF_MetalConversionRate": 1.0, #This equates to 3 Supplies! Do some math for once!
+	"SF_MetalCost":30,
+	"SF_HeavyMachineryCost":1,
+	#Just don't set those two above to zero or less. Because... you can't really set it to zero without the whole thing bamming and crashing.
+	"SF_CorruptedMetal":0.10,
+	"SF_PristineMetal":0.30,
+	"SF_SalvageGantry":0.40,
+	#This is like the modifier that messes with the... bonus modifiers.
+	
+	"SF_Input":true, # Should the modifier affect the input? (Metal and Heavy Machinery Cost)
+	"SF_Output":true, # Should the modifier affect the output? (Supply)
+	
+	"SupplyForgingSensorProfileIncreasePercent": 100,
 
-  "designTypeColors":{
-      "Lion's Guard":[160,0,95,255],
-      "Commissioned Crews":[221,201,104,255],
-  },
+	#UseExtraCommodities can either be set from 0-whateverasmuchasyoulike. If it's, 0 it will not detect any extra commodity to convert.
+	"UseExtraCommodities": 0,
+
+	#Here's a list of all the commodities: organics,volatiles,ore,rare_ore,rare_metals,domestic_goods,organs,drugs,hand_weapons,luxury_goods,lobster,alpha_core,beta_core,gamma_core
+	"ExtraCommodities0":"rare_ore",
+	"ExtraCommodities1":"organics",
+	
+	#ExtraCommodities0, ExtraCommodities1, ExtraCommodities2, ExtraCommodities3, ExtraCommodities4 must then have text string that make sense or else it'll CTD!
+	
+	#The cost should be more than zero or I'll get really mad.
+	"ExtraCommoditiesCost0":1,
+	"ExtraCommoditiesCost1":3,
+
+	#Not to mention you need to also put a corresponding Cost as well like ExtraCommoditiesCost2, and so on.
 }
