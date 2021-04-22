@@ -1,8 +1,8 @@
 name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
-Commissioned Crews,CHM_commission,,,Commissioned Crews,req_spaceport,Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_commissioned,"Commission bonuses are always applied when you enter a market. 
+Commissioned Crews,CHM_commission,,,Commissioned Crews,"req_spaceport, no_build_in",Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_commissioned,"Commission bonuses are always applied when you enter a market. 
 
 However... as a last resort, when activated, this ship will receive special training or upgrades varying from the faction you're commissioned under.",Allows everything to work.,graphics/hullmods/chm_commission.png
-Commissioned Crew Ban,CHM_commission2,,,Commissioned Crews,req_spaceport,Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_commissioned2,This ship will be marked to never accept any future Commission Bonus for any reason.,Deattach the ship's hull with the commissioned crew first!,graphics/hullmods/chm_commission_noh.png
+Commissioned Crew Ban,CHM_commission2,,,Commissioned Crews,"req_spaceport, no_build_in",Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_commissioned2,This ship will be marked to never accept any future Commission Bonus for any reason.,Deattach the ship's hull with the commissioned crew first!,graphics/hullmods/chm_commission_noh.png
 Hegemony Armor Improvements,CHM_hegemony,,,Hegemony,,,,,TRUE,,0,0,0,0,data.scripts.hullmods.CHM_hegemony,"The ship is outfitted with high-quality armor plating produced in the forges of Chicomoztoc, increases ship's armor by %s/%s/%s/%s points, depending on hull size.
 
 ""There is strength through hegemon, through unity we find Hegemony.""",Increase armor.,graphics/hullmods/chm_hegemony.png
@@ -29,10 +29,10 @@ Luddic Rituals,CHM_luddic_church,,,Luddic Church,,,,,TRUE,,0,0,0,0,data.scripts.
 Path's Vision,CHM_pather,,,Luddic Path,,,,,TRUE,,0,0,0,0,data.scripts.hullmods.CHM_pather,"Pathers have performed modifications to ship's engines, increasing ship's top speed by %s/%s/%s/%s su/second, depending on hull size. Minor modifications to other systems have also been done, reducing the rate at which combat readiness degrades by %s.
 
 ""For all who embrace autonomous technology shall perish by its own wretched usage.""",Increase ships peed,graphics/hullmods/chm_pather.png
-United We Stand,CHM_alliance,,,Commissioned Crews,req_spaceport,Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_alliance,"When your commissioned faction or yourself is allied in an alliance, receive all of its respective Commissioned Bonus.
+United We Stand,CHM_alliance,,,Commissioned Crews,"req_spaceport, no_build_in",Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_alliance,"When your commissioned faction or yourself is allied in an alliance, receive all of its respective Commissioned Bonus.
 
 ""Then join hand in hand, brave Perseans all, by uniting we stand, by dividing we fall. In so righteous a cause let us hope to succeed and let none that oppose us stand in our way.""",have nex,graphics/hullmods/chm_unified_alliance.png
-Alliance Sensor Array,CHM_alliance2,,,Commissioned Crews,req_spaceport,Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_alliance2,Applies all United We Stand hull mod to all eligible ships! Will auto-remove itself upon using.,have nex,graphics/hullmods/chm_unified_alliance2.png
-United We Stand,CHM_alliance3,,,Commissioned Crews,req_spaceport,Requires Dock,,,TRUE,,0,0,0,0,data.scripts.hullmods.CHM_alliance3,"When your commissioned faction or yourself is allied in an alliance, receive all of its respective Commissioned Bonus.
+Alliance Sensor Array,CHM_alliance2,,,Commissioned Crews,"req_spaceport, no_build_in",Requires Dock,,TRUE,,,0,0,0,0,data.scripts.hullmods.CHM_alliance2,Applies all United We Stand hull mod to all eligible ships! Will auto-remove itself upon using.,have nex,graphics/hullmods/chm_unified_alliance2.png
+United We Stand,CHM_alliance3,,,Commissioned Crews,"req_spaceport, no_build_in",Requires Dock,,,TRUE,,0,0,0,0,data.scripts.hullmods.CHM_alliance3,"When your commissioned faction or yourself is allied in an alliance, receive all of its respective Commissioned Bonus.
 
 ""Then join hand in hand, brave Perseans all, by uniting we stand, by dividing we fall. In so righteous a cause let us hope to succeed and let none that oppose us stand in our way.""",What? Nooo you cant have this,graphics/hullmods/chm_unified_alliance.png
