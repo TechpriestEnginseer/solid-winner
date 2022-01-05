@@ -1,9 +1,0 @@
-{
-  "CHM_EnableSoundOnApplication": TRUE,
-  "CHM_AutoApplyToModules": TRUE,
-
-  "designTypeColors":{
-      "Lion's Guard":[160,0,95,255],
-      "Commissioned Crews":[221,201,104,255],
-  },
-}
