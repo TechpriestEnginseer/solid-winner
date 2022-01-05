@@ -1,0 +1,11 @@
+{
+	"chm_commissionsuccess":{"sounds":[
+		{"file":"sounds/timid_crew.ogg","pitch":1,"volume":0.4},
+	],},
+	"chm_alliancesuccess":{"sounds":[
+		{"file":"sounds/timid_united.ogg","pitch":1,"volume":0.4},
+	],},
+}
+
+
+

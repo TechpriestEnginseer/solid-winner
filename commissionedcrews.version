@@ -6,7 +6,8 @@
 	{
 		"major":1,
 		"minor":9,
-		"patch":99999gg,
+		"patch":99999ggg,
 	},
-	"starsectorVersion":".95a"
+	"starsectorVersion":"0.95.1a-RC6",
+	"directDownloadURL":"https://github.com/TechpriestEnginseer/solid-winner/releases/download/1.999999ggg/Commissioned.Crews.zip",
 }

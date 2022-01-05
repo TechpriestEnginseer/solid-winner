@@ -1,0 +1,30 @@
+id,trigger,conditions,script,text,options,notes
+#Mainly for nex roleplaying purposes. Feel free to copy 1 of the line… make sure you did them properly…,,,,,,
+chm_hegemony_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == hegemony
+!$hegemony_ChangeMind","AddText ""Commissioned Crews Bonus: Ships gains increased armor.""
+SetTextHighlights Commissioned Crews Bonus
+$hegemony_ChangeMind = true 0",,,
+chm_persean_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == persean
+!$persean_ChangeMind","AddText ""Commissioned Crews Bonus: Ships have faster fighter replacement rate and decreased skeleton crew requirement.""
+SetTextHighlights Commissioned Crews Bonus
+$persean_ChangeMind = true 0",,,
+chm_luddic_church_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == luddic_church
+!$luddic_church_ChangeMind","AddText ""Commissioned Crews Bonus: Missiles have increased health and deal more damage.""
+SetTextHighlights Commissioned Crews Bonus
+$luddic_church_ChangeMind = true 0",,,
+chm_luddic_path_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == luddic_path
+!$luddic_path_ChangeMind","AddText ""Commissioned Crews Bonus: Ships have increased top speed and decreased CR reduction.""
+SetTextHighlights Commissioned Crews Bonus
+$luddic_path_ChangeMind = true 0",,,
+chm_pirates_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == pirates
+!$pirates_ChangeMind","AddText ""Commissioned Crews Bonus: Ships have decreased sensor profile.""
+SetTextHighlights Commissioned Crews Bonus
+$pirates_ChangeMind = true 0",,,
+chm_sindrian_diktat_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == sindrian_diktat
+!$sindrian_diktat_ChangeMind","AddText ""Commissioned Crews Bonus: Ships gain increased maneuverability with extra bonuses varying on the personality of the officer.""
+SetTextHighlights Commissioned Crews Bonus
+$sindrian_diktat_ChangeMind = true 0",,,
+chm_tritachyon_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == tritachyon
+!$tritachyon_ChangeMind","AddText ""Commissioned Crews Bonus: Ships with an S-Mod gain increased flux stats.""
+SetTextHighlights Commissioned Crews Bonus
+$tritachyon_ChangeMind = true 0",,,

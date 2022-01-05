@@ -1,0 +1,10 @@
+{
+  "CHM_EnableSoundOnApplication": TRUE,
+  "CHM_AutoApplyToModules": TRUE,
+
+  "designTypeColors":{
+      "Lion's Guard":[160,0,95,255],
+      "Commissioned Crews":[221,201,104,255],
+	  "Persean League":[220,185,20,255], #remove this when Alex actually fix this.
+  },
+}
