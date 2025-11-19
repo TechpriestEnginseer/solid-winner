@@ -1,0 +1,5 @@
+fieldID,fieldName,fieldType,defaultValue,fieldDescription,minValue,maxValue
+,,,,,,
+timid_commissioned_hull_mods_header,,Header,SETTINGS UPDATE ON GAME LOAD,,,
+CHM_EnableSoundOnApplication,Sound on Successfully Applying Bonuses,Boolean,TRUE,"When set to true, creates an audio cue that a Commissioned Crew bonus has been applied.",,
+CHM_AutoApplyToModules,Auto-apply to Modules,Boolean,TRUE,"When set to true, automatically applies Commissioned Crew bonuses to all ship's modules when applicable. Set to false when a bug seems to exist when a Commissioned Crew bonus is applied to a ship's module.",,

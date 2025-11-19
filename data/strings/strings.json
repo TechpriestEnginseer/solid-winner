@@ -1,15 +1,27 @@
 {
 	"CHM":{
+		"chm_commissioned_crew":"Commissioned Crew", #note to translator, this is the UI text tag
 		"chm_hegemony":"\"The spirit of the Domain holds steadfast still in the Hegemony's heart.\"",
-		"chm_persean":"\"Patriots of Persean! We are all in control of our own destiny when we're in that cockpit. Give them our best!\"",
+		"chm_persean":"\"We are all in control of our own destiny among the stars.\"",
+		"chm_persean1":"Tactics of Yaribay: Specialty of Gens Yaribay is shield tuning. Reduces the damage taken by shields by %s.",
+		"chm_persean2":"Tactics of Kato: Gens Kato specialize in Strike Command. Fighters deal %s increased damage against Destroyers and larger vessels.",
+		"chm_persean3":"Tactics of Hannan: Gens Hannan focus on damaging enemy's critical systems. Ship deals %s more damage to weapons and engines.",
 		"chm_luddic_church":"\"Faith is better than weapons of war, but a missile can destroy much evil as well.\"",
 		"chm_pather":"\"Servants who embrace Moloch shall perish by their own wretched usage.\"",
 		"chm_pirates":"\"These aren't the contrabands you're looking for.\"",
-		"chm_pirates1":"Admiral Ochre Jane of the Fourteenth Battlegroup mutinied unsuccessfully before their arrival into the Persean Sector and was punished to spend time in the cryopods. Spending time in the cryopods that had deteroirated caused brain damage in Jane, but even then, she did not lose her sense of strategy or lust for power, embodying this in her Mk.XIV line of ships and other hull of the Fourteenth Battlegroup. Ship's armor is increased by %s and flux stats increased by %s",
-		"chm_sindrian":"\"You have all pledged blood to the Lion, now show it! For the Lion!\"",
-		"chm_sindrian1":"Lion's Eye: This officer makes shields more tuned, increasing the damage reduced taken by the ship's shields by %s",
-		"chm_sindrian2":"Lion's Mane: This officer optimizes the ship's maneuvering thrusters, granting an additional %s bonus to maneuverability",
-		"chm_sindrian3":"Lion's Maul: This officer improves the ship's targeting routines, increasing damage dealt to weapons and engines by %s",
+		"chm_pirates1":"Admiral Ochre Jane of the Fourteenth Battlegroup mutinied unsuccessfully before their arrival into the Persean Sector and was punished to spend time in the cryopods. Spending time in the cryopods that had deteriorated caused brain damage in Jane, but even then, she did not lose her sense of strategy or lust for power, embodying this in her Mk.XIV line of ships and other hull of the Fourteenth Battlegroup. Ship's armor is increased by %s and flux stats increased by %s",
+		"chm_sindrian":"\"In the name of Supreme Executor, unleash the Lion!\"",
+		"chm_sindrian1":"         — Horacio Caden",
 		"chm_tritachyon":"\"Ship augmentation completed, initiating TT Protocol 14.\"",
+		
+		"helphooray":"Crews (Commissioned)",
+		"help1title":"How to use",
+		"help1a":"On your left, you see a list of hullmods that are available with commissions or taking an alliance.",
+		"help1b":"Use [%s] / [%s] to go back.",
+		"help1ba":"Q", #Q letter to go back in Codex
+		"help1bb":"LEFT", #Left arrow key to go back in Codex
+		"help1c":"Use [%s] / [%s] to go up a level.",
+		"help1ca":"E", #E letter to go back in Codex
+		"help1cb":"UP", #Up arrow key to go back in Codex
 	},
 }

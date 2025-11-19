@@ -1,0 +1,81 @@
+1.999999ggggg
+* Updated for 0.98a
+* Reworked League Commissioned Crew bonus to have officer-based effects.
+* Reworked Sindrian Diktat Commissioned Crew bonus to affect energy+beam weapons.
+* Commissioned Crews hullmods supported by mod authors should automatically appear in the Codex. No need to use the forum thread to check anymore!
+* Added LunaLib stuff
+
+1.9/1.92/1.93/1.9999
+* Adjusted volume of some background noise when you dock -> Added Custom Sound Effect of CC from @MesoTroniK
+* Cleaner more optimized code from SirHartley that now fixes the frozen screen market load crash.
+* Rewritten tips from Avanitia.
+* Added CC icons from Mayu.
+* United We Stand now considers your commissioned faction's alliances now.
+* All Hullmods can now be applied without re-docking
+* Hegemony's Armor Plating Bonus rescaled from 40/60/80/100 to 55/70/85/100.
+* Luddic Church's Missile Damage Bonus no longer deals an extra +20%/15%/10%/5%, but +30%/25%/20%/15% damage to shields now.
+* Sindria's Timid/Cautious bonus reworked now increase shield raise rate and turn rate.
+* Sindria's Aggressive/Reckless bonus reworked now increases DPS to weapon and engines.
+* Pirate's Sensor Profile Reduction reduced from -25% to -20%.
+* Pather's CR Reduction reduced from -20% to -15%.
+* Reworked Tri-Tachyon's CC Bonus (FINALE): -17% Overload Duration.
+* BIG MODDER'S TOOL: Can add UNLIMITED hullmods under the same faction entry now! NOT RESTRICTED TO ONE HULLMOD PER FACTION.
+
+1.8
+* When your commissioned faction ally with another faction, you can take United We Stand hullmod and you'll now receive that alliance hullmod.
+* League Commissioned Crew now reduces minimum crew count by 10%.
+* Assigned techtypes so you can exclude and stuff idk UI stuff.
+
+1.73/1.72/1.71/1.70
+* Fixed some United We Stand bugs..
+* Added Design Type to the Commissioned Crews for aesthetic reasons.
+* Tri-Tachyon Commissions Reworked: Receive +10%/+10%/+10%/+5% Flux Capacity depending on hull size on only High-Tech and Tri-Tachyon designed ships.
+* Cleaner performance improvment
+* Introduce a hullmod that lets you put all the United We Stand hullmod provided you have the ordnance points available on all the ship for convenience.
+
+1.6
+* Introduced United We Stand hullmod. Cost a few ordnance points (3/6/9/15), but can now receive stacking commissioned crew bonuses for you late-gamers.
+* Fixed Hegemony's XIV Armor Bonus on Destroyers.
+* A component of Vayra's Ship now receive the same easter egg on a Hegemony commission as well!
+
+1.5
+* Fun easter egg with a pirate commission and some ships from Vayra's Ships!
+* Commissioned Hull Mods now refresh upon docking at a market rather than instantly. (This means if you get decommissioned out of nowhere, you won't lose the bonus until you dock at a market).
+
+1.4.1
+* Fixed a bug where you were able to gain a commission bonus when docking into a planet with no owners.
+* Updated some art assets.
+* Tri-Tech Assistant's Skeleton Crew Reduction reduced from -15% to -10%
+* Tri-Tech Assistant now provides +20% more flux vent/capacitors from flux distributors/coil adjunct hull mods
+* The Path now provides a +25% weapon/engine repair speed bonus.
+
+1.3
+* Commissioned Bonuses may now be acquired automatically when you dock into a market (in the last resort if a bug happens, the hullmod still does the same purpose and for modules).
+* Game loads 5 seconds faster (code compiled into a .jar, srccode remains)
+* Hegemonic Plating's Armor Bonus increased from 35/50/65/80 to 40/60/80/100.
+* Ships from a XIV Armor Structure only receive 50 flat armor.
+* League Leadership reworked from League Manufactory; now increases the rate at which fighters respawn by 30%/25%/20%/15%.
+* Blessing of Ludd's Damage Bonus increased from +10% to +20%/15%/10%/5%.
+* Lion Training reworked; now grants a +5% Maneuverability and +10% Weapon Turn Rates. Provides more bonuses when an officer is attached.
+* Timid and Cautious Officers grant Lion's Eye. -5% Flux Damage from Shields.
+* Steady Officers grants Lion's Mane. +10% Maneuverability and +15% Weapon Turn Rate.
+* Aggressive and Reckless Officers receive Lion's Maul. +5% Damage to Shields.
+* Tri-Tech Assistant reworked; now reduces skeleton crew count by -15%.
+* The Path's Speed Bonus increased from 15/15/15/10 to 25/20/15/10.
+
+1.2/1.21
+* Hegemonic Plating's Armor Bonus increased from 35/40/45/50 to 35/50/65/80.
+* Blessing of Ludd reworked; now grants +25% Missile HP and +10% Missile Damage.
+* Sindrian Endurance renamed to Lion Training; now offers a scaling bonus of defensive/offensive abilities varying on the personality of the officer (timid <-> reckless)
+* Tri-Tech Assistant reworked; now reduces the decay of CR by -20%.
+* The Path's Speed Bonus increased from 15/15/15/5 to 15/15/15/10.
+*The Commissioned Specialist Hullmod will now do a ship-wide check on your fleet instead of doing the ship it has the hullmod on individually.
+
+1.1
+* League Volunteers renamed to League Leadership
+* League Leadership now has a reduced effect of 5% instead of 25% when combined with Expanded Deck Crew
+* Made some user-friendly changes to how commissioned crews can begin.
+* Added tip lines
+
+1.0
+* released

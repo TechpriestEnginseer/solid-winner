@@ -5,7 +5,7 @@ chm_hegemony_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == hegemo
 SetTextHighlights Commissioned Crews Bonus
 $hegemony_ChangeMind = true 0",,,
 chm_persean_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == persean
-!$persean_ChangeMind","AddText ""Commissioned Crews Bonus: Ships have faster fighter replacement rate and decreased skeleton crew requirement.""
+!$persean_ChangeMind","AddText ""Commissioned Crews Bonus: Ships gain increased maneuverability with extra bonuses varying on the personality of the officer.""
 SetTextHighlights Commissioned Crews Bonus
 $persean_ChangeMind = true 0",,,
 chm_luddic_church_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == luddic_church
@@ -21,7 +21,7 @@ chm_pirates_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == pirates
 SetTextHighlights Commissioned Crews Bonus
 $pirates_ChangeMind = true 0",,,
 chm_sindrian_diktat_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == sindrian_diktat
-!$sindrian_diktat_ChangeMind","AddText ""Commissioned Crews Bonus: Ships gain increased maneuverability with extra bonuses varying on the personality of the officer.""
+!$sindrian_diktat_ChangeMind","AddText ""Commissioned Crews Bonus: Ships generate less flux when using non-beam energy weapons.""
 SetTextHighlights Commissioned Crews Bonus
 $sindrian_diktat_ChangeMind = true 0",,,
 chm_tritachyon_nex_NGCPickStartingShips,ExerelinNGCStep3,"$playerFaction == tritachyon
