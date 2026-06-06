@@ -3,7 +3,7 @@
     "name": "Commissioned Crews",
     "author": "Techpriest",
     "utility": "false",
-    "version": "1.999999ggggg",
+    "version": "1.999999gggggg",
     "description": "Granting special fleet characteristics depending on what faction you're commissioned by.",
     "gameVersion": "0.98a-RC8",
 	"jars":["jar/CommissionedCrews.jar"],

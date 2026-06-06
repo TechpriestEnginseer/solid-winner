@@ -1,3 +1,7 @@
+1.999999gggggg
+* Commissioned Crew hullmods automatically should not appear in the Hullmod codex list, but in its own respective file.
+* A setting is added (but disabled by default) it makes all Commissioned Crew hullmods detectable [even for those hidden?]
+
 1.999999ggggg
 * Updated for 0.98a
 * Reworked League Commissioned Crew bonus to have officer-based effects.

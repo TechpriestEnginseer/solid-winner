@@ -1,6 +1,7 @@
 {
   "CHM_EnableSoundOnApplication": TRUE,
   "CHM_AutoApplyToModules": TRUE,
+  "CHM_ShowAllCommissions": FALSE,
 
   "designTypeColors":{
       "Commissioned Crews":[221,201,104,255],

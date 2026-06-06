@@ -6,9 +6,9 @@
 	{
 		"major":1,
 		"minor":9,
-		"patch":99999ggggg,
+		"patch":99999gggggg,
 	},
 	"starsectorVersion":"0.98a-RC8",
-	"directDownloadURL":"https://github.com/TechpriestEnginseer/solid-winner/releases/download/1.999999ggggg/Commissioned.Crews.zip",
+	"directDownloadURL":"https://github.com/TechpriestEnginseer/solid-winner/releases/download/1.999999gggggg/Commissioned.Crews.zip",
 	"changelogURL":"https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner/master/changelog.txt",
 }
